@@ -27,6 +27,11 @@ This template is built to be served as a [GitHub project page](https://help.gith
 
 1. Go to the **Actions** tab and wait for the workflow to finish.
 
+1. Go to the **Settings** tab and scroll down to **GitHub Pages**.
+1. In **Source**, click the drop-down menu and select `gh-pages`.
+
+   It's already selected, but you need to select it anyways to trigger the publish.
+
 Your site will be available at `https://<username>.github.io/<repository-name>`. Keep in mind that it can take up to 20 minutes for GitHub to publish your page.
 
 ## License
