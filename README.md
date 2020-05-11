@@ -32,6 +32,8 @@ This template is built to be served as a [GitHub project page](https://help.gith
 
    It's already selected, but you need to select it anyways to trigger the publish.
 
+   Note that the `gh-pages` option is not available until the GitHub Action workflow has finished.
+
 Your site will be available at `https://<username>.github.io/<repository-name>`. Keep in mind that it can take up to 20 minutes for GitHub to publish your page.
 
 ## License
