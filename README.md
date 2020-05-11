@@ -15,15 +15,15 @@ This template is built to be served as a [GitHub project page](https://help.gith
 
 1. In `gatsby-config.js`, change the `pathPrefix` property to the name of your repository:
 
-```js
-module.exports = {
-  siteMetadata: {
-    title: "Site name",
-  },
-  plugins: ["gatsby-theme-edith"],
-  pathPrefix: "/<repository-name>",
-}
-```
+   ```js
+   module.exports = {
+     siteMetadata: {
+       title: "Site name",
+     },
+     plugins: ["gatsby-theme-edith"],
+     pathPrefix: "/<repository-name>",
+   }
+   ```
 
 1. Go to the **Actions** tab and wait for the workflow to finish.
 
