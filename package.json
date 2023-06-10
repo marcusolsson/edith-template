@@ -15,7 +15,7 @@
     "build-prefix": "gatsby build --prefix-paths"
   },
   "dependencies": {
-    "gatsby": "^2.20.0",
+    "gatsby": "^4.25.7",
     "gatsby-theme-edith": "latest",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
